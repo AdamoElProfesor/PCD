@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.DS_Store
+
+# Data too large 
+labo1/spam_data/
